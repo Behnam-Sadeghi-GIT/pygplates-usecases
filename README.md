@@ -1,7 +1,7 @@
 # pygplates-usecases
 a place for pygplates usecases
 In case of the notebook "Subduction_history_and_slab_flux", there are several points that could be helpfull:
-## 1. The codes are based on Python 3.7
+# 1. The codes are based on Python 3.7
 ## 2. You may get some errors due to lack of some of the required libraries or so on. For example:
 ## 2.1. ModuleNotFoundError: No module named 'mpl_toolkits.basemap'
 You would need to install “basemap” using the below command through your notebook or Anaconda Powershell Prompt: conda install basemap
