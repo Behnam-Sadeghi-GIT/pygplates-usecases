@@ -1,5 +1,5 @@
 # pygplates-usecases
-a place for pygplates usecases
+
 In case of the notebook "Subduction_history_and_slab_flux", there are several points that could be helpfull:
 ### 1. The codes are based on Python 3.7
 ### 2. You may get some errors due to lack of some of the required libraries or so on. For example:
